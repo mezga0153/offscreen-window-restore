@@ -15,4 +15,5 @@ Running
 
 Run the script with:
 
-    $ offscreen-window-restore.sh
+    $ chmod +x ./offscreen-window-restore.sh
+    $ ./offscreen-window-restore.sh
