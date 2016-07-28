@@ -23,3 +23,6 @@ wmctrl -l -G | awk -v h=$height '{
 		}
 	}
 }'
+
+# restart unity to avoid problems with restored windows (unclickable areas)
+unity
