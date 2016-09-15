@@ -8,7 +8,7 @@ Prerequisites
 
 Install packages required to run the script.
 
-    sudo apt-get install wmctl x11-xserver-utils
+    sudo apt-get install wmctrl x11-xserver-utils
 
 Running
 =======
